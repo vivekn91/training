@@ -1,1 +1,7 @@
 day2
+
+
+Eureka - server
+hystrix - circuit breaker
+Ribbon - llb
+Zuul - API gateway
